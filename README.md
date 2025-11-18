@@ -1,3 +1,4 @@
+[img]https://hitscounter.dev/api/hit?url=&label=https://github.com/oldsento/bilibili-client-software-collection&icon=eye&color=%2380cbc4&message=&style=flat&tz=GMT[/img]
 部分汇总：
 
 - https://linux.do/t/topic/695301
