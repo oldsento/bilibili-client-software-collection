@@ -39,7 +39,7 @@
 3. BiliNyan
 4. https://github.com/TeamNB/FakeBiliBili FakeBiliBili
 5. https://github.com/brokes6/D-BiliBili 搭理搭理
-6. https://github.com/Predidit/BiliNeo bilineo.被弃坑
+6. https://github.com/Predidit/BiliNeo bilineo.存档❗
 7. https://github.com/LeonNOV/BiliHub BiuVideo(原名Bilihub)，2年没更新❗
 8. https://github.com/HotBitmapGG/bilibili-android-client 被弃坑
 9. bilitv_
