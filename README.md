@@ -27,7 +27,7 @@
 ## PC端：
 1. https://github.com/Richasy/Bili.Uwp Bili.Uwp 2年前，存档❗
 2. https://github.com/xfangfang/wiliwili wiliwili 分辨率上调要登录，多平台但没有手机端❗
-3. Bilistart Win11专用，
+3. https://github.com/BlameTwo/BiliStart Bilistart Win11专用，存档❗
 4. https://github.com/Richasy/Bili.Copilot 哔哩助理，内置20+AI模型智能总结、多线程下载，支持插件，
 5. https://github.com/xiaoyaocz/biliuwp-lite 存档❗               
 
