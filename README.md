@@ -60,3 +60,40 @@
 10. 
 
 还有哪些欢迎反馈，争取做到真正的全网最全！！
+
+16. https://github.com/u2x1/bmsc
+17. https://github.com/Lewage59/bili-video
+18. https://github.com/bbplayer-app/BBPlayer
+19. https://github.com/DIYgod/RSSHub
+20. https://github.com/lovegaoshi/azusa-player-mobile
+21. https://github.com/xiaoyvyv/bangumi
+22. https://github.com/kenmingwang/azusa-player
+23. https://github.com/chen-zeong/DTV
+24. https://github.com/yajuhua/podcast2
+25. https://github.com/lovegaoshi/NoxPlayer
+26. https://github.com/duzhaokun123/BilibiliHD2
+27. https://github.com/canisminor1990/bilibili-client
+28. https://github.com/LeonNOV/BiuVideo
+29. https://github.com/heng30/musicbox
+30. https://github.com/despcy/Bilibili-MusicPlayer
+31. https://github.com/huahuadeliaoliao/RoseSong
+32. https://github.com/WeDevelopTeam/HeroVideo-master
+33. https://github.com/duzhaokun123/BilibiliHD
+34. https://github.com/noolua/BLPlayer
+35. https://github.com/liuchuancong/bilibili-music
+36. https://github.com/Z-Only/minibili
+37. https://github.com/brokes6/D-BiliBili
+38. https://github.com/maotoumao/mixin_music
+39. https://github.com/949886/Bilibili-iOS
+40. https://github.com/storytellerF/Bi
+41. https://github.com/hdtls/bilibili
+42. https://github.com/WangyuHello/HotPotPlayer
+43. https://github.com/wood3n/biu
+44. https://github.com/304449912/Flutter_bilibli
+45. https://github.com/feeluown/feeluown-bilibili
+46. https://github.com/sunyanyan/BiliBili_sts
+47. https://github.com/xieqifei/SpiderPlayer
+48. https://github.com/AuroraZiling/KanaPlayer
+49. https://github.com/qingyiwebt/Biliw 手表版，
+50. 
+
