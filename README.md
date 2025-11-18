@@ -45,5 +45,16 @@
 11. https://github.com/VicNing/BilibiliCopycat 早期项目，
 12.
 
+### 支持B站的插件化软件：
+1. https://github.com/maotoumao/MusicFree musicfree，音乐播放，插件，多平台，支持部分主流/第三方音乐平台，webdav，
+2. 澎湃音乐，(视频转)音频播放，插件，多平台，webdav，主流网盘，流媒体服务器，国内主流音乐平台(目前除了B站都挂了❗
+3. Rhythm，音视频播放，插件，安卓，webdav，主流网盘，流媒体服务器，国内外一些主流/第三方音乐平台(插件，
+4. https://github.com/xiaohucode/yidaRule 益达，音视频播放，插件，多平台，
+5. https://github.com/mabDc/eso 亦搜，音视频播放，插件，多平台，开源，疑似被弃坑❗
+6. https://github.com/aooiuu/any-reader any-reader，音视频播放，插件，PC端，
+7. 部分TVbox修改版，视频播放，插件，
+8. Tbox，音视频播放，安卓/iOS，插件，目前插件挂了❗
+9. kodi 音视频播放，插件，多平台，第三方插件目前貌似没人开发维护了？主流网盘插件，
+10. 
 
 还有哪些欢迎反馈，争取做到真正的全网最全！！
