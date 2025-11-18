@@ -4,7 +4,7 @@
 - https://github.com/topics/bilibili?l=java&o=desc&s=stars
 - https://meta.appinn.net/t/topic/56394
 - https://meta.appinn.net/t/topic/69968
-https://chii.in/group/topic/420739#post_3203247
+- https://chii.in/group/topic/420739#post_3203247
 - https://meta.appinn.net/t/topic/77434
 - https://chii.in/group/topic/442901
 
