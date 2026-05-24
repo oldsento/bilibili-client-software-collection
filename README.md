@@ -15,7 +15,7 @@
 03. https://github.com/orz12/PiliPalaX pilipalaX.安卓/iOS，上面功能有些不同.存档❗
 04. https://github.com/InfinityLoop1308/PipePipe/ pipepipe. 安卓，
 05. https://github.com/qidian55/bilibilitv1.6.6-repair 安卓TV，安卓4.0.4兼容版
-06. https://github.com/bggRGjQaUbCoE/PiliPlus 多平台🌟，
+06. https://github.com/bggRGjQaUbCoE/PiliPlus 多平台
 07. https://github.com/dvc890/MyBilibili 安卓，不支持下载❗随缘更新，
 08. https://github.com/Frost819/bv 安卓TV，基于aaa1115910/bv，
 09. https://github.com/Leelion96/bv 安卓TV，基于aaa1115910/bv，
