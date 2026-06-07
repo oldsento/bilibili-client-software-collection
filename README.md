@@ -23,6 +23,7 @@
 11. https://github.com/xiaye13579/BBLL 安卓TV，
 12. https://github.com/swyefun/BBLLV5 bbll，安卓TV，基于xiaye13579/BBLL，
 13. https://github.com/despcy/Bilibili-MusicPlayer 音乐区播放器，
+14. https://github.com/chinasoul/BT BT 安卓TV，支持安卓4.4+，活跃更新❗
 
 
 ## PC端：
