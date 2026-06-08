@@ -42,7 +42,7 @@
 6. https://github.com/bggRGjQaUbCoE/PiliPlus 多平台，
 
 
-### 支持B站的插件化软件：
+## 支持B站的插件化软件：
 1. https://github.com/maotoumao/MusicFree musicfree，音乐播放，插件，多平台，支持部分主流/第三方音乐平台，webdav，
 2. 澎湃音乐，(视频转)音频播放，插件，多平台，webdav，主流网盘，流媒体服务器，国内主流音乐平台(目前除了B站都挂了❗
 3. Rhythm，音视频播放，插件，安卓，webdav，主流网盘，流媒体服务器，国内外一些主流/第三方音乐平台(插件，
