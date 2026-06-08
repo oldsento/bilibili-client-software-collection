@@ -17,18 +17,20 @@
 02. https://github.com/guozhigq/pilipala/ pilipala.安卓/iOS，
 03. https://github.com/orz12/PiliPalaX pilipalaX.安卓/iOS，上面功能有些不同.存档❗
 04. https://github.com/InfinityLoop1308/PipePipe/ pipepipe. 安卓，
-05. https://github.com/qidian55/bilibilitv1.6.6-repair 安卓TV，安卓4.0.4兼容版
-06. https://github.com/bggRGjQaUbCoE/PiliPlus 多平台
-07. https://github.com/dvc890/MyBilibili 安卓，不支持下载❗随缘更新，
-08. https://github.com/Frost819/bv 安卓TV，基于aaa1115910/bv，
-09. https://github.com/Leelion96/bv 安卓TV，基于aaa1115910/bv，
-10. https://github.com/aaa1115910/bv 安卓TV，不能在大陆用❗
-11. https://github.com/xiaye13579/BBLL 安卓TV，
-12. https://github.com/swyefun/BBLLV5 bbll，安卓TV，基于xiaye13579/BBLL，
-13. https://github.com/despcy/Bilibili-MusicPlayer 音乐区播放器，
-14. https://github.com/chinasoul/BT BT 安卓TV，支持安卓4.4+，活跃更新❗
+05.  https://github.com/bggRGjQaUbCoE/PiliPlus 多平台
+06. https://github.com/dvc890/MyBilibili 安卓，不支持下载❗随缘更新，
+07. https://github.com/despcy/Bilibili-MusicPlayer 音乐区播放器，
+
 
 ## TV端：
+1. https://github.com/qidian55/bilibilitv1.6.6-repair 安卓TV，安卓4.0.4兼容版
+2. https://github.com/Frost819/bv 安卓TV，基于aaa1115910/bv，
+3. https://github.com/Leelion96/bv 安卓TV，基于aaa1115910/bv，
+4. https://github.com/aaa1115910/bv 安卓TV，不能在大陆用❗
+5. https://github.com/xiaye13579/BBLL 安卓TV，
+6. https://github.com/swyefun/BBLLV5 bbll，安卓TV，基于xiaye13579/BBLL
+7. https://github.com/chinasoul/BT BT 安卓TV，支持安卓4.4+，活跃更新
+8. 
 
 ## 其他：
 1. https://github.com/Darock-Studio/Darock-Bili 苹果手表版
