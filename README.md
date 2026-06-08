@@ -32,12 +32,6 @@
 7. https://github.com/chinasoul/BT BT 安卓TV，支持安卓4.4+，活跃更新
 8. 
 
-## 其他：
-1. https://github.com/Darock-Studio/Darock-Bili 苹果手表版
-2. https://github.com/kenmingwang/azusa-player 电梓播放器浏览器插件，
-3. https://github.com/qingyiwebt/Biliw 手表客户端，支持其他M3U8源的播放。
-4. https://gitee.com/RobinNotBad/BiliClient    手表版 停更❗
-
 
 ## PC端：
 1. https://github.com/Richasy/Bili.Uwp Bili.Uwp 2年前，存档❗
@@ -47,20 +41,6 @@
 5. https://github.com/xiaoyaocz/biliuwp-lite 存档❗               
 6. https://github.com/bggRGjQaUbCoE/PiliPlus 多平台，
 
-
-⭕各种坑：
-1. biliyou(bili_you
-2. Lavender
-3. BiliNyan
-4. https://github.com/TeamNB/FakeBiliBili FakeBiliBili
-5. https://github.com/brokes6/D-BiliBili 搭理搭理
-6. https://github.com/Predidit/BiliNeo bilineo.存档❗
-7. https://github.com/LeonNOV/BiliHub BiuVideo(原名Bilihub)，2年没更新❗
-8. https://github.com/HotBitmapGG/bilibili-android-client 被弃坑
-9. bilitv_
-10. md bilibili
-11. https://github.com/VicNing/BilibiliCopycat 早期项目，
-12.
 
 ### 支持B站的插件化软件：
 1. https://github.com/maotoumao/MusicFree musicfree，音乐播放，插件，多平台，支持部分主流/第三方音乐平台，webdav，
@@ -74,6 +54,23 @@
 9. kodi 音视频播放，插件，多平台，第三方插件目前貌似没人开发维护了？主流网盘插件，
 10. 
 
+## 其他：
+1. https://github.com/Darock-Studio/Darock-Bili 苹果手表版
+2. https://github.com/kenmingwang/azusa-player 电梓播放器浏览器插件，
+3. https://github.com/qingyiwebt/Biliw 手表客户端，支持其他M3U8源的播放。
+4. https://gitee.com/RobinNotBad/BiliClient    手表版 停更❗
 
 
-
+⭕各种坑(功能失效/被弃坑等等不能正常使用：
+1. biliyou(bili_you
+2. Lavender
+3. BiliNyan
+4. https://github.com/TeamNB/FakeBiliBili FakeBiliBili
+5. https://github.com/brokes6/D-BiliBili 搭理搭理
+6. https://github.com/Predidit/BiliNeo bilineo.存档❗
+7. https://github.com/LeonNOV/BiliHub BiuVideo(原名Bilihub)，2年没更新❗
+8. https://github.com/HotBitmapGG/bilibili-android-client 被弃坑
+9. bilitv_
+10. md bilibili
+11. https://github.com/VicNing/BilibiliCopycat 早期项目，
+12.
