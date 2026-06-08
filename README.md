@@ -1,6 +1,6 @@
 ![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/bilibili-client-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=GMT)
 
-还有哪些欢迎提交/补充，
+还有哪些欢迎提交/补充
 
 部分汇总：
 
@@ -33,7 +33,7 @@
 6. https://github.com/swyefun/BBLLV5 bbll，安卓TV，基于xiaye13579/BBLL
 7. https://github.com/chinasoul/BT BT 安卓TV，支持安卓4.4+，活跃更新
 8. https://github.com/cat3399/blbl 安卓TV
-9. https://github.com/qianxuntudou-ops/MyTVB 安卓TV，TV可用
+9. https://github.com/qianxuntudou-ops/MyTVB 安卓TV
 10. https://github.com/Hyper-Beast/BiliTV 安卓TV
 11. https://github.com/Hyper-Beast/BiliTVNative 安卓TV，BiliTV原生版
 12. https://github.com/SugarFatFree/PiliPlus 安卓TV，PiliPlus-TV
