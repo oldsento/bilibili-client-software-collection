@@ -20,6 +20,8 @@
 05.  https://github.com/bggRGjQaUbCoE/PiliPlus 多平台
 06. https://github.com/dvc890/MyBilibili 安卓，不支持下载❗随缘更新，
 07. https://github.com/despcy/Bilibili-MusicPlayer 音乐区播放器，
+8. https://github.com/lovetingyuan/minibili 安卓
+9. https://github.com/Starfallan/PiliNara 多平台，PiliPlus分支
 
 
 ## TV端：
@@ -30,7 +32,12 @@
 5. https://github.com/xiaye13579/BBLL 安卓TV，
 6. https://github.com/swyefun/BBLLV5 bbll，安卓TV，基于xiaye13579/BBLL
 7. https://github.com/chinasoul/BT BT 安卓TV，支持安卓4.4+，活跃更新
-8. 
+8. https://github.com/cat3399/blbl 安卓TV
+9. https://github.com/qianxuntudou-ops/MyTVB 安卓TV，TV可用
+10. https://github.com/Hyper-Beast/BiliTV 安卓TV
+11. https://github.com/Hyper-Beast/BiliTVNative 安卓TV，BiliTV原生版
+12. https://github.com/SugarFatFree/PiliPlus 安卓TV，PiliPlus-TV
+13. https://github.com/uiiang/bilibilitv1.6.6-repair-uiiang 安卓TV，bilibilitv1.6.6增强版，修改UI布局，不支持下载
 
 
 ## PC端：
