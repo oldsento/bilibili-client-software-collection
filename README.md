@@ -20,8 +20,8 @@
 05.  https://github.com/bggRGjQaUbCoE/PiliPlus 多平台
 06. https://github.com/dvc890/MyBilibili 安卓，不支持下载❗随缘更新，
 07. https://github.com/despcy/Bilibili-MusicPlayer 音乐区播放器，
-8. https://github.com/lovetingyuan/minibili 安卓
-9. https://github.com/Starfallan/PiliNara 多平台，PiliPlus分支
+08. https://github.com/lovetingyuan/minibili 安卓
+09. https://github.com/Starfallan/PiliNara 多平台，PiliPlus分支
 
 
 ## TV端：
