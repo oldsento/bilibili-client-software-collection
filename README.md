@@ -69,15 +69,32 @@
 
 
 ⭕各种坑(功能失效/被弃坑等等不能正常使用：
-1. biliyou(bili_you
-2. Lavender
-3. BiliNyan
-4. https://github.com/TeamNB/FakeBiliBili FakeBiliBili
-5. https://github.com/brokes6/D-BiliBili 搭理搭理
-6. https://github.com/Predidit/BiliNeo bilineo.存档❗
-7. https://github.com/LeonNOV/BiliHub BiuVideo(原名Bilihub)，2年没更新❗
-8. https://github.com/HotBitmapGG/bilibili-android-client 被弃坑
-9. bilitv_
-10. md bilibili
-11. https://github.com/VicNing/BilibiliCopycat 早期项目，
-12.
+1. https://github.com/lucinhu/bili_you 无广告／比国际版多了IP属地功能／支持Android10以下／只有首页和动态两个页面／目前只有推荐栏目可用／目前只能看不支持发评论，存档，2年前，
+2. https://github.com/sumimakito/BiliNyan-Android 10年前❗️
+3. https://github.com/TeamNB/FakeBiliBili FakeBiliBili
+4. https://github.com/brokes6/D-BiliBili 搭理搭理
+5. https://github.com/LeonNOV/BiliHub 2年前❗(原名BiuVideo)， https://github.com/LeonNOV/BiuVideo ❌ 
+6. https://github.com/HotBitmapGG/bilibili-android-client 9年前❗️
+7. https://github.com/peacefulprogram/BilibiliTv 安卓，存档❗️    
+8. https://github.com/dvc890/MyBilibili 安卓，不支持下载❗6年前，
+9. https://github.com/Qixingchen/MD-BiliBili 10年前❗️
+10. https://github.com/VicNing/BilibiliCopycat 早期项目，9年前❗️
+11. https://github.com/nekomiyaxneko/flutter_MyBilibili 安卓，5年前❗️
+12. https://github.com/yoyiyi/bilisoleil 6年前❗️
+13. https://github.com/Lewage59/bili-video 3年前❗️
+14. https://github.com/duzhaokun123/BilibiliHD2❌ 
+15. https://github.com/WeDevelopTeam/HeroVideo-master 仿Bilibili Android客户端的App，视频源来自于网络爬虫，9年前❗️
+16. https://github.com/duzhaokun123/BilibiliHD❌
+17. https://github.com/brokes6/D-BiliBili❌
+18. https://github.com/maotoumao/mixin_music 安卓，从网易云音乐、咪咕音乐和bilibili中搜索并播放歌曲，4年前，存档❗️作者另一个现在很火的全平台播放器musicfree，
+19. https://github.com/949886/Bilibili-iOS   9年前❗️
+20. https://github.com/hdtls/bilibili iOS端，3年前❗️
+21. https://github.com/sunyanyan/BiliBili_sts❌
+22. https://github.com/despcy/Bilibili-MusicPlayer 安卓，B站音乐区视频转音频播放，6年前❗️
+23. https://github.com/bb-music/flutter-app 哔哔音乐，安卓/win，音频播放，包括B站几大平台，被某迅❌了
+24. https://github.com/fython/BiliPlayer❌
+25. https://github.com/MoeNotebook/nekobox NekoBoxLauncher❌
+26. https://github.com/Piped-Android/Piped❌
+27. https://github.com/foca-io/foca-player❌
+28. ❌
+29. ❌
