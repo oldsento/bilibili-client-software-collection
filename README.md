@@ -39,6 +39,7 @@
 11. https://github.com/Hyper-Beast/BiliTVNative 安卓TV，BiliTV原生版
 12. https://github.com/SugarFatFree/PiliPlus 安卓TV，PiliPlus-TV
 13. https://github.com/uiiang/bilibilitv1.6.6-repair-uiiang 安卓TV，bilibilitv1.6.6增强版，修改UI布局，不支持下载
+14. https://github.com/asdf17128/bili-webos LG电视（webOS），弹幕/番剧/直播/收藏/投屏，Homebrew Channel 一键安装
 
 
 ## PC端：
