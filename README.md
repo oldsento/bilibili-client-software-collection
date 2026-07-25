@@ -23,7 +23,8 @@
 08. https://github.com/lovetingyuan/minibili 安卓
 09. https://github.com/Starfallan/PiliNara 多平台，PiliPlus分支
 10. https://github.com/jay3-yy/BiliPai 安卓 
-11. 
+11. https://github.com/naaammme/pilipro 安卓，基于piliplus 2.0.0大小24m，支持跳过广告，x21/默认设置/硬解正常
+12. 
 
 ## TV端：
 1. https://github.com/qidian55/bilibilitv1.6.6-repair 安卓TV，安卓4.0.4兼容版
