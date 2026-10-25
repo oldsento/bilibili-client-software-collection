@@ -8,9 +8,9 @@
 - https://github.com/topics/bilibili?l=java&o=desc&s=stars
 - https://meta.appinn.net/t/topic/56394
 - https://meta.appinn.net/t/topic/69968
-- https://bangumi.lol/group/topic/420739#post_3203247
+- https://bangumi.tv/group/topic/420739#post_3203247
 - https://meta.appinn.net/t/topic/77434 同步讨论帖
-- https://bangumi.lol/group/topic/442901 同上
+- https://bangumi.tv/group/topic/442901 同上
 
 ## 安卓端：
 01. https://github.com/10miaomiao/bilimiao2 bilimiao 安卓，
