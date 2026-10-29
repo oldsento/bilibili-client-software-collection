@@ -51,6 +51,19 @@
 5. https://github.com/xiaoyaocz/biliuwp-lite 存档❗               
 6. https://github.com/bggRGjQaUbCoE/PiliPlus 多平台，
 
+## PC端下载器：
+1. https://github.com/ScottSloan/Bili23-Downloader
+2. https://github.com/nICEnnnnnnnLee/BilibiliDown
+3. https://github.com/montrush/bilibili-charging-downloader
+4. https://github.com/kamiertop/videodown
+5. https://github.com/zhaochengbiao005/bilibili-charging-video-downloader
+6. https://github.com/Majjcom/BiliDownloader
+7. https://github.com/crazysmile-PhD/downkyicore
+8. https://github.com/ex32013/bilibili_downloader
+9. https://github.com/lanyeeee/bilibili-video-downloader
+10. https://github.com/liao0123456789/BiliEasy
+11. https://github.com/RoamerFly/Bilibili_Box
+
 
 ## 支持B站的插件化软件：
 1. https://github.com/maotoumao/MusicFree musicfree，音乐播放，插件，多平台，支持部分主流/第三方音乐平台，webdav，
